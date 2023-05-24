@@ -10,7 +10,7 @@
 
 - 🌱 Meanwhile actively learning **React and .NET**
 
-- 📫 How to reach me **bacavuztolga@gmail.com**
+- 📫 You can reach me on **bacavuztolga@gmail.com**
 
 - 💬 You can also ask me about hardware and tech
 
