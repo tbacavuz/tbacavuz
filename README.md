@@ -8,7 +8,7 @@
 
 - 🔭 Currently looking for a **full time position**
 
-- 🌱 Meanwhile actively learning **React**
+- 🌱 Meanwhile actively learning **React** on Scrimba
 
 - 📫 You can reach me on **bacavuztolga@gmail.com**
 
