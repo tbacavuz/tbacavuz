@@ -12,6 +12,8 @@
 
 - 📫 How to reach me **bacavuztolga@gmail.com**
 
+- 💬 You can also ask me about hardware and tech
+
 - ⚡ Fun fact **I love science, food, gaming and martial arts**
 
 <h3 align="left">Connect with me:</h3>
