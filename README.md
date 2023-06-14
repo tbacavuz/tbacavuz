@@ -10,7 +10,7 @@
 
 - 🔭 Currently looking for a **full time position**
 
-- 🌱 Meanwhile actively learning **React**
+- 🌱 Meanwhile actively learning **.NET** and **React**
 
 - 📫 You can reach me on **bacavuztolga@gmail.com**
 
