@@ -10,7 +10,7 @@
 
 - 🔭 Chasing **improvement** and constantly **learning**
 
-- 🌱 Actively building on **.NET** and **React**
+- 🌱 Actively building with **.NET** and **React** on Azure DevOps
 
 - 📫 You can reach me on **bacavuztolga@gmail.com**
 
