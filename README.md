@@ -8,15 +8,15 @@
   <img src="https://komarev.com/ghpvc/?username=tbacavuz&label=Profile%20views&color=0e75b6&style=flat" alt="tbacavuz" /> 
 </p>
 
-- 🔭 Currently looking for a **full time position**
+- 🔭 Chasing **improvement** and constantly **learning**
 
-- 🌱 Meanwhile actively learning **.NET** and **React**
+- 🌱 Actively building on **.NET** and **React**
 
 - 📫 You can reach me on **bacavuztolga@gmail.com**
 
-- 💬 You can also ask me about hardware and tech
+- 💬 Likes to talk about hardware, tech and science
 
-- ⚡ Fun fact **I love science, food, gaming, and martial arts**
+- ⚡ Fun fact **I love nature, foods, gaming, and martial arts**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
